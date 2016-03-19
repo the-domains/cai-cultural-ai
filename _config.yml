@@ -1,0 +1,28 @@
+name: CAI - Cultural AI
+favicon: null
+layout_spectrum: 0.2499776992481202
+typography_spectrum: 0.07670752448029816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0767375233117491
+  lightness: 0.5793000147677958
+  saturation: 0.7987864729948342
+  rhythmicContrast: 0.2051164114382118
+purpose: []
