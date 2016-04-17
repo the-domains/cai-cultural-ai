@@ -2,68 +2,17 @@
     <channel>
         <title><![CDATA[Working efficiently together across borders]]></title>
         <description><![CDATA[Working efficiently together across borders]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cai-cultural-ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 10:59:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 10:50:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cai-cultural-ai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How Artificial intelligence can help cross culture management ?]]></title>
             <description><![CDATA[<article><h1>How Artificial intelligence can help cross culture management ?</h1><p>Almost 90 percent of top executives named “cross-cultural leadership” as their greatest management challenge for this century, according to a recent survey of senior leaders from 68 countries.
-—“The Economist” Intelligence Unit, 2011.
-Have you had difficulty in communicating with colleagues from different parts of the world? Have you encountered challenges meeting project deadlines due to differing sense of time among international team members? Culture matters more than ever in a world where the frequency of cross-border collaborations and initiatives is increasing at lightning speed. To drive success in such an interconnected world, one must understand how the beliefs and assumptions of a culture shape the way individuals within it communicate and operate, and how that may be quite different from the way you communicate and operate within your culture. In this course, you will learn to understand what is behind cultural barriers and develop targeted communication and management strategies to overcome those barriers, enabling you to deliver greater business success in today’s “global village."
-
-CONTENT
-
-Fundamentals: Core concepts, understandings, and tools (50%)
-Latest Developments: Recent advances and future trends (10%)
-Industry Applications: Linking theory and real-world (40%)
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-Industry Applications: Linking theory and real-world (40%): 40%
-DELIVERY METHODS
-
-Lecture: Delivery of material in a lecture format (70%)
-Discussion or Groupwork: Participatory learning (30%)
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-LEVELS
-
-Introductory: Appropriate for a general audience (80%)
-Specialized: Assumes experience in practice area or field (20%)
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-Introductory: Appropriate for a general audience (80%): 80%
-</p></article>]]></description>
-            <link>undefinedhow-artificial-intelligence-can-help-cross-culture-managemen/index.html</link>
+—“The Economist” Intelligence Unit, 2011. </p></article>]]></description>
+            <link>https://thegrid.ai/cai-cultural-ai/how-artificial-intelligence-can-help-cross-culture-managemen/index.html</link>
             <guid isPermaLink="false">376702e5-187c-42df-bf87-85d9de0371e1</guid>
-            <pubDate>Sun, 20 Mar 2016 10:58:55 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 10:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
